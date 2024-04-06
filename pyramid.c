@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+   printf(“My name is Garrett Godsey \n”);
    int i, space, rows, k = 0;
    printf("Enter the number of rows: ");
    scanf("%d", &rows);
